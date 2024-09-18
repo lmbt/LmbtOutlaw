@@ -1,0 +1,7 @@
+## Interface: 110002
+## Version: 1.0.0
+## Title: LmbtOutlaw
+## Notes: Outlaw button glows
+## Author: Lmbt
+
+LmbtOutlaw.lua
